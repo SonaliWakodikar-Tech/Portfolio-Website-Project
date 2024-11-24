@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "Responsive React Website",
+      "skills": ["React","CSS", "HTML","CSS Animation"],
+      "demo": "https://myportfolio-sonali.netlify.app/",
+      "source": "https://github.com/SonaliWakodikar-Tech/Portfolio_Website_Project"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "Working on this project.",
+      "skills": ["React", "Java", "Spring Boot", "Bootstrap"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "Working on this project.",
+      "skills": ["React", "Java", "Spring Boot", "Bootstrap"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  

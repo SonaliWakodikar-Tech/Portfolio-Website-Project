@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Senior Software Engineer",
+      "organisation": "Capgemini",
+      "startDate": "July, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on Full stack projects", "Reduced load times by 50%"],
+      "imageSrc": "history/capgemini.png"
+    },
+    {
+      "role": "Software Engineer",
+      "organisation": "Capgemini",
+      "startDate": "Nov, 2022",
+      "endDate": "July 2024",
+      "experiences": ["Worked on Tour Management System Projecr", "Designed the UI Design"],
+      "imageSrc": "history/capgemini.png"
+    }
+    
+  ]
+  
